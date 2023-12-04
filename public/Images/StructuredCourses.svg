@@ -1,0 +1,13 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Structured Courses">
+<path id="Vector" d="M36.6071 29.6875L45.3125 34.375L25 45.3125L4.6875 34.375L13.3929 29.6875" stroke="#1D1B19" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M13.3929 20.3125L4.6875 25L13.3929 29.6875L25 35.9375L36.6071 29.6875L45.3125 25L36.6071 20.3125" stroke="url(#paint0_linear_10836_45070)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M4.6875 15.625L25 4.6875L45.3125 15.625L36.6071 20.3125L25 26.5625L13.3929 20.3125L4.6875 15.625Z" stroke="#1D1B19" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_10836_45070" x1="25" y1="20.3125" x2="25" y2="35.9375" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7542"/>
+<stop offset="0.505208" stop-color="#FE4501"/>
+</linearGradient>
+</defs>
+</svg>
